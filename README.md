@@ -8,4 +8,4 @@
 
 
 ## 📬 Contact Us
-For any inquiries, please email us at:(mailto:borakol07@gmail.com)
+For any inquiries, please email us at:[Contact Mail: ](borakol07@gmail.com)
