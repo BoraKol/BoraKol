@@ -8,4 +8,5 @@
 
 
 ### 📬 Contact Me
-For any inquiries, please email us at: [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail)](mailto:borakol07@gmail.com)
+#### For any inquiries, please email us at:
+[![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail)](mailto:borakol07@gmail.com)
