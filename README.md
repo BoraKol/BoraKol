@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Bora Kol , a fresh graduate computer engineer , I'm currently improving myself on Python and Data Science . You can follow and contact me with the links below. 👇
+#### I'm Bora Kol , a fresh graduate computer engineer , I'm currently improving myself on Python and Data Science . You can follow and contact me with the links below. 👇
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/borakol/)
@@ -8,4 +8,4 @@
 
 
 ## 📬 Contact Us
-For any inquiries, please email us at:[![Contact Mail: ]](borakol07@gmail.com)
+For any inquiries, please email us at:[(borakol07@gmail.com)]
