@@ -7,5 +7,5 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/borakol1)
 
 
-### 📬 Contact Us
-For any inquiries, please email us at: [borakol07@gmail.com](mailto:borakol07@gmail.com)
+### 📬 Contact Me
+For any inquiries, please email us at: [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail)](mailto:borakol07@gmail.com)
