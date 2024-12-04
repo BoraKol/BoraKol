@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=BoraKol)
 
 #### I'm Bora Kol , a fresh graduate computer engineer , I'm currently improving myself on Python and Data Science . You can follow and contact me with the links below. 👇
 
@@ -11,6 +12,5 @@
 #### For any inquiries, please email us at:
 [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail)](mailto:borakol07@gmail.com)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=BoraKol)
 
 
