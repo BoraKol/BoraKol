@@ -1,5 +1,6 @@
-### Hi there 👋  
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=BoraKol)
+
+### Hi there 👋  
 
 #### I'm Bora Kol , a fresh graduate computer engineer , I'm currently improving myself on Python and Data Science . You can follow and contact me with the links below. 👇
 
