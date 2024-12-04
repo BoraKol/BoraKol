@@ -11,4 +11,4 @@
 #### For any inquiries, please email us at:
 [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail)](mailto:borakol07@gmail.com)
 
-![](https://BoraKol.com/ghpvc/?username=Bora-Kol&abbreviated=true)
+![Visitor Count](https://profile-counter.glitch.me/Bora-Kol/count.svg)
